@@ -1,9 +1,9 @@
 # Learning of Git & GitHub
----
 
-### I am learning Git & GitHub from Codeacademy, during this course i learn about Git, Git Operation , GitHub , Markdown , Git Branching , Git Teamwork , Git Workflow , Deploy GitHub Pages
 
->  ##**Excursion - Discover Hidden Places**
+>  I am learning Git & GitHub from Codeacademy, during this course i learn about Git, Git Operation , GitHub , Markdown , Git Branching , Git Teamwork , Git Workflow , Deploy GitHub Pages
+
+##**Excursion - Discover Hidden Places**
 
 ### Project Overview
 
